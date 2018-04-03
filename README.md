@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Metal Shader Toy
 
-You can use the [editor on GitHub](https://github.com/minimoog/ShaderEditor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
 
-### Markdown
+Metal Shader Toy is Metal based app for editing and writing Metal shading languange shaders similar like ShaderToy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
 
-```markdown
-Syntax highlighted code block
+* Live coding and JIT compilation of shader code
+* Shader viewing
+* Shader editor with syntax highlighting.
+* Save the shaders to be later edited
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minimoog/ShaderEditor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[contact support](mailto:minimoog77@gmail.com) and we’ll help you sort it out.
