@@ -1,9 +1,9 @@
-# Metal Shader Toy
+# Shader Editor
 
 
 ## About
 
-Metal Shader Toy is Metal based app for editing and writing Metal shading languange shaders similar like ShaderToy.
+Shader Editor is Metal based app for editing and writing Metal shading languange shaders similar like ShaderToy.
 
 ## Features
 
